@@ -1,22 +1,23 @@
+"""Red neuronal compacta para predecir el siguiente pictograma por ID."""
+
 import torch
 from torch import nn
-from transformers import AutoConfig, AutoModel
 
 
-class BilingualPictogramPredictor(nn.Module):
-    """Encoder multilingüe compartido y una cabeza independiente por idioma."""
-
-    def __init__(self, base_model: str, number_of_labels: int, local_config: str | None = None):
+class GRUPictogramPredictor(nn.Module):
+    def __init__(self, vocabulary_size: int, output_size: int, embedding_dim: int = 64,
+                 hidden_dim: int = 128, layers: int = 1, dropout: float = 0.15) -> None:
         super().__init__()
-        self.encoder = AutoModel.from_config(AutoConfig.from_pretrained(local_config)) if local_config else AutoModel.from_pretrained(base_model)
-        hidden = self.encoder.config.hidden_size
-        self.dropout = nn.Dropout(0.15)
-        self.heads = nn.ModuleDict({
-            "es": nn.Linear(hidden, number_of_labels),
-            "en": nn.Linear(hidden, number_of_labels),
-        })
+        self.embedding = nn.Embedding(vocabulary_size, embedding_dim, padding_idx=0)
+        self.gru = nn.GRU(embedding_dim, hidden_dim, num_layers=layers, batch_first=True,
+                          dropout=dropout if layers > 1 else 0.0)
+        self.dropout = nn.Dropout(dropout)
+        self.output = nn.Linear(hidden_dim, output_size)
 
-    def forward(self, input_ids, attention_mask, language):
-        encoded = self.encoder(input_ids=input_ids, attention_mask=attention_mask)
-        pooled = self.dropout(encoded.last_hidden_state[:, 0])
-        return self.heads[language](pooled)
+    def forward(self, input_ids: torch.Tensor, lengths: torch.Tensor) -> torch.Tensor:
+        embedded = self.embedding(input_ids)
+        packed = nn.utils.rnn.pack_padded_sequence(
+            embedded, lengths.cpu(), batch_first=True, enforce_sorted=False
+        )
+        _, hidden = self.gru(packed)
+        return self.output(self.dropout(hidden[-1]))
