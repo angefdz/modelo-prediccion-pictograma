@@ -1,0 +1,7123 @@
+{
+  "version": 2,
+  "pictograms": [
+    {
+      "id": 1,
+      "names": {
+        "es": "Comer",
+        "en": "Eat"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "names": {
+        "es": "Beber",
+        "en": "Drink"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 3,
+      "names": {
+        "es": "Dormir",
+        "en": "Sleep"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 4,
+      "names": {
+        "es": "Jugar",
+        "en": "Play"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 5,
+      "names": {
+        "es": "Leer",
+        "en": "Read"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 6,
+      "names": {
+        "es": "Escribir",
+        "en": "Write"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 7,
+      "names": {
+        "es": "Dibujar",
+        "en": "Draw"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 8,
+      "names": {
+        "es": "Correr",
+        "en": "Run"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 9,
+      "names": {
+        "es": "Bailar",
+        "en": "Dance"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 10,
+      "names": {
+        "es": "Cantar",
+        "en": "Sing"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 11,
+      "names": {
+        "es": "Lavar",
+        "en": "Wash"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 12,
+      "names": {
+        "es": "Mirar",
+        "en": "Look"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 13,
+      "names": {
+        "es": "Hablar",
+        "en": "Talk"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 14,
+      "names": {
+        "es": "Escuchar",
+        "en": "Listen"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 15,
+      "names": {
+        "es": "Pensar",
+        "en": "Think"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 16,
+      "names": {
+        "es": "Caminar",
+        "en": "Walk"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 17,
+      "names": {
+        "es": "Sentarse",
+        "en": "Sit"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 18,
+      "names": {
+        "es": "Trabajar",
+        "en": "Work"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 19,
+      "names": {
+        "es": "Viajar",
+        "en": "Travel"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 20,
+      "names": {
+        "es": "Cocinar",
+        "en": "Cook"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 21,
+      "names": {
+        "es": "Estudiar",
+        "en": "Study"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 22,
+      "names": {
+        "es": "Limpiar",
+        "en": "Clean"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 23,
+      "names": {
+        "es": "Abrir",
+        "en": "Open"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 24,
+      "names": {
+        "es": "Cerrar",
+        "en": "Close"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 25,
+      "names": {
+        "es": "Comprar",
+        "en": "Buy"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 26,
+      "names": {
+        "es": "Vender",
+        "en": "Sell"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 27,
+      "names": {
+        "es": "Llamar",
+        "en": "Call"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 28,
+      "names": {
+        "es": "Escalar",
+        "en": "Climb"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 29,
+      "names": {
+        "es": "Nadar",
+        "en": "Swim"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 30,
+      "names": {
+        "es": "Gritar",
+        "en": "Shout"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 31,
+      "names": {
+        "es": "Reír",
+        "en": "Laugh"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 32,
+      "names": {
+        "es": "Llorar",
+        "en": "Cry"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 33,
+      "names": {
+        "es": "Sentir",
+        "en": "Feel"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 34,
+      "names": {
+        "es": "Ayudar",
+        "en": "Help"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 35,
+      "names": {
+        "es": "Buscar",
+        "en": "Search"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 36,
+      "names": {
+        "es": "Encontrar",
+        "en": "Find"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 37,
+      "names": {
+        "es": "Esperar",
+        "en": "Wait"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 38,
+      "names": {
+        "es": "Volar",
+        "en": "Fly"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 39,
+      "names": {
+        "es": "Caer",
+        "en": "Fall"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 40,
+      "names": {
+        "es": "Saltar",
+        "en": "Jump"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 41,
+      "names": {
+        "es": "Empujar",
+        "en": "Push"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 42,
+      "names": {
+        "es": "Tirar",
+        "en": "Pull"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 43,
+      "names": {
+        "es": "Querer",
+        "en": "Want"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 44,
+      "names": {
+        "es": "Cortar",
+        "en": "Cut"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 45,
+      "names": {
+        "es": "Romper",
+        "en": "Break"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 46,
+      "names": {
+        "es": "Pintar",
+        "en": "Paint"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 47,
+      "names": {
+        "es": "Encender",
+        "en": "Turn on"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 48,
+      "names": {
+        "es": "Apagar",
+        "en": "Turn off"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 49,
+      "names": {
+        "es": "Coger",
+        "en": "Take"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 50,
+      "names": {
+        "es": "Guardar",
+        "en": "Put away"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 51,
+      "names": {
+        "es": "Olvidar",
+        "en": "Forget"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 52,
+      "names": {
+        "es": "Barrer",
+        "en": "Sweep"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 53,
+      "names": {
+        "es": "Mover",
+        "en": "Move"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 54,
+      "names": {
+        "es": "Doler",
+        "en": "Hurt"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 55,
+      "names": {
+        "es": "Peinar",
+        "en": "Comb"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 56,
+      "names": {
+        "es": "Oír",
+        "en": "Hear"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 57,
+      "names": {
+        "es": "Cansar",
+        "en": "Tire"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 58,
+      "names": {
+        "es": "Tocar",
+        "en": "Touch"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 59,
+      "names": {
+        "es": "Amar",
+        "en": "Love"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 60,
+      "names": {
+        "es": "Girar",
+        "en": "Turn"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 61,
+      "names": {
+        "es": "Doblar",
+        "en": "Fold"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 62,
+      "names": {
+        "es": "Sacar",
+        "en": "Take out"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 63,
+      "names": {
+        "es": "Levantar",
+        "en": "Lift"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 64,
+      "names": {
+        "es": "Mamá",
+        "en": "Mum"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 65,
+      "names": {
+        "es": "Papá",
+        "en": "Dad"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 66,
+      "names": {
+        "es": "Hermano",
+        "en": "Brother"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 67,
+      "names": {
+        "es": "Hermana",
+        "en": "Sister"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 68,
+      "names": {
+        "es": "Amigo",
+        "en": "Friend"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 69,
+      "names": {
+        "es": "Niño",
+        "en": "Boy"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 70,
+      "names": {
+        "es": "Niña",
+        "en": "Girl"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 71,
+      "names": {
+        "es": "Abuelo",
+        "en": "Grandfather"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 72,
+      "names": {
+        "es": "Abuela",
+        "en": "Grandmother"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 73,
+      "names": {
+        "es": "Vecino",
+        "en": "Neighbour"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 74,
+      "names": {
+        "es": "Padre",
+        "en": "Father"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 75,
+      "names": {
+        "es": "Madre",
+        "en": "Mother"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 76,
+      "names": {
+        "es": "Tío",
+        "en": "Uncle"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 77,
+      "names": {
+        "es": "Tía",
+        "en": "Aunt"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 78,
+      "names": {
+        "es": "Primo",
+        "en": "Cousin"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 79,
+      "names": {
+        "es": "Prima",
+        "en": "Cousin"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 80,
+      "names": {
+        "es": "Sobrino",
+        "en": "Nephew"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 81,
+      "names": {
+        "es": "Sobrina",
+        "en": "Niece"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 82,
+      "names": {
+        "es": "Hijo",
+        "en": "Son"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 83,
+      "names": {
+        "es": "Hija",
+        "en": "Daughter"
+      },
+      "type": "sustantivo",
+      "categories": [
+        2
+      ]
+    },
+    {
+      "id": 84,
+      "names": {
+        "es": "Yo",
+        "en": "I"
+      },
+      "type": "sustantivo",
+      "categories": [
+        3
+      ]
+    },
+    {
+      "id": 85,
+      "names": {
+        "es": "Tú",
+        "en": "You"
+      },
+      "type": "sustantivo",
+      "categories": [
+        3
+      ]
+    },
+    {
+      "id": 86,
+      "names": {
+        "es": "Él",
+        "en": "He"
+      },
+      "type": "sustantivo",
+      "categories": [
+        3
+      ]
+    },
+    {
+      "id": 87,
+      "names": {
+        "es": "Ella",
+        "en": "She"
+      },
+      "type": "sustantivo",
+      "categories": [
+        3
+      ]
+    },
+    {
+      "id": 88,
+      "names": {
+        "es": "Nosotros",
+        "en": "We"
+      },
+      "type": "sustantivo",
+      "categories": [
+        3
+      ]
+    },
+    {
+      "id": 89,
+      "names": {
+        "es": "Vosotros",
+        "en": "You"
+      },
+      "type": "sustantivo",
+      "categories": [
+        3
+      ]
+    },
+    {
+      "id": 90,
+      "names": {
+        "es": "Ellos",
+        "en": "They"
+      },
+      "type": "sustantivo",
+      "categories": [
+        3
+      ]
+    },
+    {
+      "id": 91,
+      "names": {
+        "es": "Ellas",
+        "en": "They"
+      },
+      "type": "sustantivo",
+      "categories": [
+        3
+      ]
+    },
+    {
+      "id": 92,
+      "names": {
+        "es": "Usted",
+        "en": "You"
+      },
+      "type": "sustantivo",
+      "categories": [
+        3
+      ]
+    },
+    {
+      "id": 93,
+      "names": {
+        "es": "Adiós",
+        "en": "Goodbye"
+      },
+      "type": "sustantivo",
+      "categories": [
+        4
+      ]
+    },
+    {
+      "id": 94,
+      "names": {
+        "es": "Gracias",
+        "en": "Thank you"
+      },
+      "type": "sustantivo",
+      "categories": [
+        4
+      ]
+    },
+    {
+      "id": 95,
+      "names": {
+        "es": "Por favor",
+        "en": "Please"
+      },
+      "type": "sustantivo",
+      "categories": [
+        4
+      ]
+    },
+    {
+      "id": 96,
+      "names": {
+        "es": "Perdón",
+        "en": "Sorry"
+      },
+      "type": "sustantivo",
+      "categories": [
+        4
+      ]
+    },
+    {
+      "id": 97,
+      "names": {
+        "es": "Lo siento",
+        "en": "I am sorry"
+      },
+      "type": "sustantivo",
+      "categories": [
+        4
+      ]
+    },
+    {
+      "id": 98,
+      "names": {
+        "es": "Bienvenido",
+        "en": "Welcome"
+      },
+      "type": "sustantivo",
+      "categories": [
+        4
+      ]
+    },
+    {
+      "id": 99,
+      "names": {
+        "es": "Buenos días",
+        "en": "Good morning"
+      },
+      "type": "sustantivo",
+      "categories": [
+        4
+      ]
+    },
+    {
+      "id": 100,
+      "names": {
+        "es": "Buenas tardes",
+        "en": "Good afternoon"
+      },
+      "type": "sustantivo",
+      "categories": [
+        4
+      ]
+    },
+    {
+      "id": 101,
+      "names": {
+        "es": "Buenas noches",
+        "en": "Good night"
+      },
+      "type": "sustantivo",
+      "categories": [
+        4
+      ]
+    },
+    {
+      "id": 102,
+      "names": {
+        "es": "Mesa",
+        "en": "Table"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 103,
+      "names": {
+        "es": "Silla",
+        "en": "Chair"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 104,
+      "names": {
+        "es": "Puerta",
+        "en": "Door"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 105,
+      "names": {
+        "es": "Ventana",
+        "en": "Window"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 106,
+      "names": {
+        "es": "Libro",
+        "en": "Book"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 107,
+      "names": {
+        "es": "Teléfono",
+        "en": "Phone"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 108,
+      "names": {
+        "es": "Ordenador",
+        "en": "Computer"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 109,
+      "names": {
+        "es": "Bolígrafo",
+        "en": "Pen"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 110,
+      "names": {
+        "es": "Reloj",
+        "en": "Clock"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 111,
+      "names": {
+        "es": "Bolsa",
+        "en": "Bag"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 112,
+      "names": {
+        "es": "Zapato",
+        "en": "Shoe"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 113,
+      "names": {
+        "es": "Sombrero",
+        "en": "Hat"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 114,
+      "names": {
+        "es": "Cuchillo",
+        "en": "Knife"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 115,
+      "names": {
+        "es": "Tenedor",
+        "en": "Fork"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 116,
+      "names": {
+        "es": "Plato",
+        "en": "Plate"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 117,
+      "names": {
+        "es": "Vaso",
+        "en": "Glass"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 118,
+      "names": {
+        "es": "Caja",
+        "en": "Box"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 119,
+      "names": {
+        "es": "Llave",
+        "en": "Key"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 120,
+      "names": {
+        "es": "Mochila",
+        "en": "Backpack"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 121,
+      "names": {
+        "es": "Lámpara",
+        "en": "Lamp"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 122,
+      "names": {
+        "es": "Espejo",
+        "en": "Mirror"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 123,
+      "names": {
+        "es": "Cepillo",
+        "en": "Brush"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 124,
+      "names": {
+        "es": "Almohada",
+        "en": "Pillow"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 125,
+      "names": {
+        "es": "Cama",
+        "en": "Bed"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 126,
+      "names": {
+        "es": "Toalla",
+        "en": "Towel"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 127,
+      "names": {
+        "es": "Jarrón",
+        "en": "Vase"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 128,
+      "names": {
+        "es": "Carpeta",
+        "en": "Folder"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 129,
+      "names": {
+        "es": "Calendario",
+        "en": "Calendar"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 130,
+      "names": {
+        "es": "Cuaderno",
+        "en": "Notebook"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 131,
+      "names": {
+        "es": "Calzado",
+        "en": "Footwear"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 132,
+      "names": {
+        "es": "Botella",
+        "en": "Bottle"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 133,
+      "names": {
+        "es": "Gafas",
+        "en": "Glasses"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 134,
+      "names": {
+        "es": "Batería",
+        "en": "Battery"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 135,
+      "names": {
+        "es": "Radio",
+        "en": "Radio"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 136,
+      "names": {
+        "es": "Taza",
+        "en": "Cup"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 137,
+      "names": {
+        "es": "Papel",
+        "en": "Paper"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 138,
+      "names": {
+        "es": "Pintura",
+        "en": "Paint"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 139,
+      "names": {
+        "es": "Pantalla",
+        "en": "Screen"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 140,
+      "names": {
+        "es": "Ratón",
+        "en": "Mouse"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 141,
+      "names": {
+        "es": "Teclado",
+        "en": "Keyboard"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 142,
+      "names": {
+        "es": "Cargador",
+        "en": "Charger"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 143,
+      "names": {
+        "es": "Paraguas",
+        "en": "Umbrella"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 144,
+      "names": {
+        "es": "Maleta",
+        "en": "Suitcase"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 145,
+      "names": {
+        "es": "Sombrilla",
+        "en": "Parasol"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 146,
+      "names": {
+        "es": "Cámara",
+        "en": "Camera"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 147,
+      "names": {
+        "es": "Mapa",
+        "en": "Map"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 148,
+      "names": {
+        "es": "Espejo",
+        "en": "Mirror"
+      },
+      "type": "sustantivo",
+      "categories": [
+        5
+      ]
+    },
+    {
+      "id": 149,
+      "names": {
+        "es": "Manzana",
+        "en": "Apple"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 150,
+      "names": {
+        "es": "Pera",
+        "en": "Pear"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 151,
+      "names": {
+        "es": "Plátano",
+        "en": "Banana"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 152,
+      "names": {
+        "es": "Sandía",
+        "en": "Watermelon"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 153,
+      "names": {
+        "es": "Melón",
+        "en": "Melon"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 154,
+      "names": {
+        "es": "Fresa",
+        "en": "Strawberry"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 155,
+      "names": {
+        "es": "Uva",
+        "en": "Grape"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 156,
+      "names": {
+        "es": "Limón",
+        "en": "Lemon"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 157,
+      "names": {
+        "es": "Cereza",
+        "en": "Cherry"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 158,
+      "names": {
+        "es": "Piña",
+        "en": "Pineapple"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 159,
+      "names": {
+        "es": "Arándano",
+        "en": "Blueberry"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 160,
+      "names": {
+        "es": "Aguacate",
+        "en": "Avocado"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 161,
+      "names": {
+        "es": "Tomate",
+        "en": "Tomato"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 162,
+      "names": {
+        "es": "Lechuga",
+        "en": "Lettuce"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 163,
+      "names": {
+        "es": "Zanahoria",
+        "en": "Carrot"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 164,
+      "names": {
+        "es": "Patata",
+        "en": "Potato"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 165,
+      "names": {
+        "es": "Cebolla",
+        "en": "Onion"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 166,
+      "names": {
+        "es": "Ajo",
+        "en": "Garlic"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 167,
+      "names": {
+        "es": "Pepino",
+        "en": "Cucumber"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 168,
+      "names": {
+        "es": "Pollo",
+        "en": "Chicken"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 169,
+      "names": {
+        "es": "Ternera",
+        "en": "Beef"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 170,
+      "names": {
+        "es": "Cerdo",
+        "en": "Pork"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 171,
+      "names": {
+        "es": "Cordero",
+        "en": "Lamb"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 172,
+      "names": {
+        "es": "Pescado",
+        "en": "Fish"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 173,
+      "names": {
+        "es": "Marisco",
+        "en": "Seafood"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 174,
+      "names": {
+        "es": "Huevo",
+        "en": "Egg"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 175,
+      "names": {
+        "es": "Queso",
+        "en": "Cheese"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 176,
+      "names": {
+        "es": "Pan",
+        "en": "Bread"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 177,
+      "names": {
+        "es": "Arroz",
+        "en": "Rice"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 178,
+      "names": {
+        "es": "Pasta",
+        "en": "Pasta"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 179,
+      "names": {
+        "es": "Macarrones",
+        "en": "Macaroni"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 180,
+      "names": {
+        "es": "Espaguetis",
+        "en": "Spaghetti"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 181,
+      "names": {
+        "es": "Sopa",
+        "en": "Soup"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 182,
+      "names": {
+        "es": "Ensalada",
+        "en": "Salad"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 183,
+      "names": {
+        "es": "Hamburguesa",
+        "en": "Hamburger"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 184,
+      "names": {
+        "es": "Pizza",
+        "en": "Pizza"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 185,
+      "names": {
+        "es": "Tarta",
+        "en": "Cake"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 186,
+      "names": {
+        "es": "Helado",
+        "en": "Ice cream"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 187,
+      "names": {
+        "es": "Chocolate",
+        "en": "Chocolate"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 188,
+      "names": {
+        "es": "Galleta",
+        "en": "Biscuit"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 189,
+      "names": {
+        "es": "Miel",
+        "en": "Honey"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 190,
+      "names": {
+        "es": "Yogur",
+        "en": "Yoghurt"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 198,
+      "names": {
+        "es": "Azúcar",
+        "en": "Sugar"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 199,
+      "names": {
+        "es": "Sal",
+        "en": "Salt"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 200,
+      "names": {
+        "es": "Aceite",
+        "en": "Oil"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 201,
+      "names": {
+        "es": "Mantequilla",
+        "en": "Butter"
+      },
+      "type": "sustantivo",
+      "categories": [
+        6
+      ]
+    },
+    {
+      "id": 202,
+      "names": {
+        "es": "Agua",
+        "en": "Water"
+      },
+      "type": "sustantivo",
+      "categories": [
+        7
+      ]
+    },
+    {
+      "id": 203,
+      "names": {
+        "es": "Zumo",
+        "en": "Juice"
+      },
+      "type": "sustantivo",
+      "categories": [
+        7
+      ]
+    },
+    {
+      "id": 204,
+      "names": {
+        "es": "Café",
+        "en": "Coffee"
+      },
+      "type": "sustantivo",
+      "categories": [
+        7
+      ]
+    },
+    {
+      "id": 205,
+      "names": {
+        "es": "Té",
+        "en": "Tea"
+      },
+      "type": "sustantivo",
+      "categories": [
+        7
+      ]
+    },
+    {
+      "id": 206,
+      "names": {
+        "es": "Vino",
+        "en": "Wine"
+      },
+      "type": "sustantivo",
+      "categories": [
+        7
+      ]
+    },
+    {
+      "id": 207,
+      "names": {
+        "es": "Cerveza",
+        "en": "Beer"
+      },
+      "type": "sustantivo",
+      "categories": [
+        7
+      ]
+    },
+    {
+      "id": 208,
+      "names": {
+        "es": "Leche",
+        "en": "Milk"
+      },
+      "type": "sustantivo",
+      "categories": [
+        7
+      ]
+    },
+    {
+      "id": 209,
+      "names": {
+        "es": "Batido",
+        "en": "Milkshake"
+      },
+      "type": "sustantivo",
+      "categories": [
+        7
+      ]
+    },
+    {
+      "id": 210,
+      "names": {
+        "es": "Refresco",
+        "en": "Soft drink"
+      },
+      "type": "sustantivo",
+      "categories": [
+        7
+      ]
+    },
+    {
+      "id": 211,
+      "names": {
+        "es": "Limonada",
+        "en": "Lemonade"
+      },
+      "type": "sustantivo",
+      "categories": [
+        7
+      ]
+    },
+    {
+      "id": 212,
+      "names": {
+        "es": "Chocolate caliente",
+        "en": "Hot chocolate"
+      },
+      "type": "sustantivo",
+      "categories": [
+        7
+      ]
+    },
+    {
+      "id": 213,
+      "names": {
+        "es": "Infusión",
+        "en": "Herbal tea"
+      },
+      "type": "sustantivo",
+      "categories": [
+        7
+      ]
+    },
+    {
+      "id": 214,
+      "names": {
+        "es": "Y",
+        "en": "And"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 215,
+      "names": {
+        "es": "O",
+        "en": "Or"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 216,
+      "names": {
+        "es": "De",
+        "en": "Of"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 217,
+      "names": {
+        "es": "A",
+        "en": "To"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 218,
+      "names": {
+        "es": "En",
+        "en": "In"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 219,
+      "names": {
+        "es": "Con",
+        "en": "With"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 220,
+      "names": {
+        "es": "Por",
+        "en": "By"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 221,
+      "names": {
+        "es": "Para",
+        "en": "For"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 222,
+      "names": {
+        "es": "Sin",
+        "en": "Without"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 223,
+      "names": {
+        "es": "Sobre",
+        "en": "On"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 224,
+      "names": {
+        "es": "Entre",
+        "en": "Between"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 225,
+      "names": {
+        "es": "Hasta",
+        "en": "Until"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 226,
+      "names": {
+        "es": "Desde",
+        "en": "From"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 227,
+      "names": {
+        "es": "Contra",
+        "en": "Against"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 228,
+      "names": {
+        "es": "Durante",
+        "en": "During"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 229,
+      "names": {
+        "es": "Tras",
+        "en": "After"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 230,
+      "names": {
+        "es": "Según",
+        "en": "According to"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 231,
+      "names": {
+        "es": "La",
+        "en": "The"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 232,
+      "names": {
+        "es": "Los",
+        "en": "The"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 233,
+      "names": {
+        "es": "Las",
+        "en": "The"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 234,
+      "names": {
+        "es": "Mi",
+        "en": "My"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 235,
+      "names": {
+        "es": "Su",
+        "en": "His or her"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 236,
+      "names": {
+        "es": "Nuestro",
+        "en": "Our"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 237,
+      "names": {
+        "es": "Nuestra",
+        "en": "Our"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 238,
+      "names": {
+        "es": "Vuestro",
+        "en": "Your"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 239,
+      "names": {
+        "es": "Vuestra",
+        "en": "Your"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 240,
+      "names": {
+        "es": "Mis",
+        "en": "My"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 241,
+      "names": {
+        "es": "Tus",
+        "en": "Your"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 242,
+      "names": {
+        "es": "Sus",
+        "en": "Their"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 243,
+      "names": {
+        "es": "Nuestros",
+        "en": "Our"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 244,
+      "names": {
+        "es": "Nuestras",
+        "en": "Our"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 245,
+      "names": {
+        "es": "Vuestros",
+        "en": "Your"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 246,
+      "names": {
+        "es": "Vuestras",
+        "en": "Your"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 247,
+      "names": {
+        "es": "Me",
+        "en": "Me"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 248,
+      "names": {
+        "es": "Un",
+        "en": "A"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 249,
+      "names": {
+        "es": "Una",
+        "en": "A"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 250,
+      "names": {
+        "es": "Unos",
+        "en": "Some"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 251,
+      "names": {
+        "es": "Unas",
+        "en": "Some"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 252,
+      "names": {
+        "es": "Contigo",
+        "en": "With you"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 253,
+      "names": {
+        "es": "Donde",
+        "en": "Where"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 254,
+      "names": {
+        "es": "Quien",
+        "en": "Who"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 255,
+      "names": {
+        "es": "Cual",
+        "en": "Which"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 256,
+      "names": {
+        "es": "Que",
+        "en": "What"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 257,
+      "names": {
+        "es": "Como",
+        "en": "How"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 258,
+      "names": {
+        "es": "Cuando",
+        "en": "When"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 259,
+      "names": {
+        "es": "Cuanto",
+        "en": "How much"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 260,
+      "names": {
+        "es": "Feliz",
+        "en": "Happy"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 261,
+      "names": {
+        "es": "Triste",
+        "en": "Sad"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 262,
+      "names": {
+        "es": "Cansado",
+        "en": "Tired"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 263,
+      "names": {
+        "es": "Enfadado",
+        "en": "Angry"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 264,
+      "names": {
+        "es": "Asustado",
+        "en": "Scared"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 265,
+      "names": {
+        "es": "Sorprendido",
+        "en": "Surprised"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 266,
+      "names": {
+        "es": "Avergonzado",
+        "en": "Embarrassed"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 267,
+      "names": {
+        "es": "Orgulloso",
+        "en": "Proud"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 268,
+      "names": {
+        "es": "Nervioso",
+        "en": "Nervous"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 269,
+      "names": {
+        "es": "Preocupado",
+        "en": "Worried"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 270,
+      "names": {
+        "es": "Satisfecho",
+        "en": "Satisfied"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 271,
+      "names": {
+        "es": "Ansioso",
+        "en": "Anxious"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 272,
+      "names": {
+        "es": "Contento",
+        "en": "Glad"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 273,
+      "names": {
+        "es": "Aburrido",
+        "en": "Bored"
+      },
+      "type": "sustantivo",
+      "categories": [
+        9
+      ]
+    },
+    {
+      "id": 274,
+      "names": {
+        "es": "Casa",
+        "en": "Home"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 275,
+      "names": {
+        "es": "Escuela",
+        "en": "School"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 276,
+      "names": {
+        "es": "Parque",
+        "en": "Park"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 277,
+      "names": {
+        "es": "Hospital",
+        "en": "Hospital"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 278,
+      "names": {
+        "es": "Tienda",
+        "en": "Shop"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 279,
+      "names": {
+        "es": "Playa",
+        "en": "Beach"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 280,
+      "names": {
+        "es": "Bosque",
+        "en": "Forest"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 281,
+      "names": {
+        "es": "Ciudad",
+        "en": "City"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 282,
+      "names": {
+        "es": "Pueblo",
+        "en": "Village"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 283,
+      "names": {
+        "es": "Oficina",
+        "en": "Office"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 284,
+      "names": {
+        "es": "Restaurante",
+        "en": "Restaurant"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 285,
+      "names": {
+        "es": "Iglesia",
+        "en": "Church"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 286,
+      "names": {
+        "es": "Aeropuerto",
+        "en": "Airport"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 287,
+      "names": {
+        "es": "Estación",
+        "en": "Station"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 288,
+      "names": {
+        "es": "Biblioteca",
+        "en": "Library"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 289,
+      "names": {
+        "es": "Museo",
+        "en": "Museum"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 290,
+      "names": {
+        "es": "Mercado",
+        "en": "Market"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 291,
+      "names": {
+        "es": "Puente",
+        "en": "Bridge"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 292,
+      "names": {
+        "es": "Calle",
+        "en": "Street"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 293,
+      "names": {
+        "es": "Montaña",
+        "en": "Mountain"
+      },
+      "type": "sustantivo",
+      "categories": [
+        10
+      ]
+    },
+    {
+      "id": 294,
+      "names": {
+        "es": "Cabeza",
+        "en": "Head"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 295,
+      "names": {
+        "es": "Brazo",
+        "en": "Arm"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 296,
+      "names": {
+        "es": "Mano",
+        "en": "Hand"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 297,
+      "names": {
+        "es": "Pierna",
+        "en": "Leg"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 298,
+      "names": {
+        "es": "Pie",
+        "en": "Foot"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 299,
+      "names": {
+        "es": "Ojo",
+        "en": "Eye"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 300,
+      "names": {
+        "es": "Oreja",
+        "en": "Ear"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 301,
+      "names": {
+        "es": "Boca",
+        "en": "Mouth"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 302,
+      "names": {
+        "es": "Nariz",
+        "en": "Nose"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 303,
+      "names": {
+        "es": "Cuello",
+        "en": "Neck"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 304,
+      "names": {
+        "es": "Hombro",
+        "en": "Shoulder"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 305,
+      "names": {
+        "es": "Dedo",
+        "en": "Finger"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 306,
+      "names": {
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 307,
+      "names": {
+        "es": "Corazón",
+        "en": "Heart"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 308,
+      "names": {
+        "es": "Estómago",
+        "en": "Stomach"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 309,
+      "names": {
+        "es": "Diente",
+        "en": "Tooth"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 310,
+      "names": {
+        "es": "Cabello",
+        "en": "Hair"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 311,
+      "names": {
+        "es": "Piel",
+        "en": "Skin"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 312,
+      "names": {
+        "es": "Rodilla",
+        "en": "Knee"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 313,
+      "names": {
+        "es": "Codo",
+        "en": "Elbow"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 314,
+      "names": {
+        "es": "Tobillo",
+        "en": "Ankle"
+      },
+      "type": "sustantivo",
+      "categories": [
+        11
+      ]
+    },
+    {
+      "id": 315,
+      "names": {
+        "es": "Rojo",
+        "en": "Red"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 316,
+      "names": {
+        "es": "Azul",
+        "en": "Blue"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 317,
+      "names": {
+        "es": "Verde",
+        "en": "Green"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 318,
+      "names": {
+        "es": "Amarillo",
+        "en": "Yellow"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 319,
+      "names": {
+        "es": "Negro",
+        "en": "Black"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 320,
+      "names": {
+        "es": "Blanco",
+        "en": "White"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 321,
+      "names": {
+        "es": "Morado",
+        "en": "Purple"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 322,
+      "names": {
+        "es": "Rosa",
+        "en": "Pink"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 323,
+      "names": {
+        "es": "Gris",
+        "en": "Grey"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 324,
+      "names": {
+        "es": "Marrón",
+        "en": "Brown"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 325,
+      "names": {
+        "es": "Beige",
+        "en": "Beige"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 326,
+      "names": {
+        "es": "Lavanda",
+        "en": "Lavender"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 327,
+      "names": {
+        "es": "Ocre",
+        "en": "Ochre"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 328,
+      "names": {
+        "es": "Granate",
+        "en": "Maroon"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 329,
+      "names": {
+        "es": "Lila",
+        "en": "Lilac"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 330,
+      "names": {
+        "es": "Cian",
+        "en": "Cyan"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 331,
+      "names": {
+        "es": "Naranja",
+        "en": "Orange"
+      },
+      "type": "sustantivo",
+      "categories": [
+        12
+      ]
+    },
+    {
+      "id": 332,
+      "names": {
+        "es": "Perro",
+        "en": "Dog"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 333,
+      "names": {
+        "es": "Gato",
+        "en": "Cat"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 334,
+      "names": {
+        "es": "Pájaro",
+        "en": "Bird"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 335,
+      "names": {
+        "es": "Pez",
+        "en": "Fish"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 336,
+      "names": {
+        "es": "Caballo",
+        "en": "Horse"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 337,
+      "names": {
+        "es": "Vaca",
+        "en": "Cow"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 338,
+      "names": {
+        "es": "Oveja",
+        "en": "Sheep"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 339,
+      "names": {
+        "es": "Gallina",
+        "en": "Hen"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 340,
+      "names": {
+        "es": "Conejo",
+        "en": "Rabbit"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 341,
+      "names": {
+        "es": "Serpiente",
+        "en": "Snake"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 342,
+      "names": {
+        "es": "León",
+        "en": "Lion"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 343,
+      "names": {
+        "es": "Tigre",
+        "en": "Tiger"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 344,
+      "names": {
+        "es": "Elefante",
+        "en": "Elephant"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 345,
+      "names": {
+        "es": "Mono",
+        "en": "Monkey"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 346,
+      "names": {
+        "es": "Oso",
+        "en": "Bear"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 347,
+      "names": {
+        "es": "Águila",
+        "en": "Eagle"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 348,
+      "names": {
+        "es": "Tortuga",
+        "en": "Turtle"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 349,
+      "names": {
+        "es": "Rana",
+        "en": "Frog"
+      },
+      "type": "sustantivo",
+      "categories": [
+        13
+      ]
+    },
+    {
+      "id": 350,
+      "names": {
+        "es": "Muñeca",
+        "en": "Doll"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 351,
+      "names": {
+        "es": "Muñeco",
+        "en": "Action figure"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 352,
+      "names": {
+        "es": "Peluche",
+        "en": "Soft toy"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 353,
+      "names": {
+        "es": "Coche",
+        "en": "Car"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 354,
+      "names": {
+        "es": "Tren",
+        "en": "Train"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 355,
+      "names": {
+        "es": "Rompecabezas",
+        "en": "Jigsaw"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 356,
+      "names": {
+        "es": "Puzzle",
+        "en": "Puzzle"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 357,
+      "names": {
+        "es": "Camión",
+        "en": "Lorry"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 358,
+      "names": {
+        "es": "Avión",
+        "en": "Plane"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 359,
+      "names": {
+        "es": "Títere",
+        "en": "Puppet"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 360,
+      "names": {
+        "es": "Ladrillo",
+        "en": "Brick"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 361,
+      "names": {
+        "es": "Tabla",
+        "en": "Board"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 362,
+      "names": {
+        "es": "Cometa",
+        "en": "Kite"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 363,
+      "names": {
+        "es": "Baile",
+        "en": "Dance"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 364,
+      "names": {
+        "es": "Trompo",
+        "en": "Spinning top"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 365,
+      "names": {
+        "es": "Patinete",
+        "en": "Scooter"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 366,
+      "names": {
+        "es": "Bicicleta",
+        "en": "Bicycle"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 367,
+      "names": {
+        "es": "Canica",
+        "en": "Marble"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 368,
+      "names": {
+        "es": "Balón",
+        "en": "Ball"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 369,
+      "names": {
+        "es": "Pistola",
+        "en": "Toy gun"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 370,
+      "names": {
+        "es": "Lego",
+        "en": "Lego"
+      },
+      "type": "sustantivo",
+      "categories": [
+        14
+      ]
+    },
+    {
+      "id": 371,
+      "names": {
+        "es": "Deberes",
+        "en": "Homework"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15
+      ]
+    },
+    {
+      "id": 372,
+      "names": {
+        "es": "Lápiz",
+        "en": "Pencil"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15
+      ]
+    },
+    {
+      "id": 373,
+      "names": {
+        "es": "Regla",
+        "en": "Ruler"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15
+      ]
+    },
+    {
+      "id": 374,
+      "names": {
+        "es": "Borrador",
+        "en": "Eraser"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15
+      ]
+    },
+    {
+      "id": 375,
+      "names": {
+        "es": "Pizarra",
+        "en": "Blackboard"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15
+      ]
+    },
+    {
+      "id": 376,
+      "names": {
+        "es": "Clase",
+        "en": "Class"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15
+      ]
+    },
+    {
+      "id": 377,
+      "names": {
+        "es": "Profesor",
+        "en": "Teacher"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15,
+        22
+      ]
+    },
+    {
+      "id": 378,
+      "names": {
+        "es": "Alumno",
+        "en": "Student"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15
+      ]
+    },
+    {
+      "id": 379,
+      "names": {
+        "es": "Escritorio",
+        "en": "Desk"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15
+      ]
+    },
+    {
+      "id": 380,
+      "names": {
+        "es": "Tiza",
+        "en": "Chalk"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15
+      ]
+    },
+    {
+      "id": 381,
+      "names": {
+        "es": "Calculadora",
+        "en": "Calculator"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15
+      ]
+    },
+    {
+      "id": 382,
+      "names": {
+        "es": "Agenda",
+        "en": "Diary"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15
+      ]
+    },
+    {
+      "id": 383,
+      "names": {
+        "es": "Examen",
+        "en": "Exam"
+      },
+      "type": "sustantivo",
+      "categories": [
+        15
+      ]
+    },
+    {
+      "id": 384,
+      "names": {
+        "es": "Camisa",
+        "en": "Shirt"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 385,
+      "names": {
+        "es": "Pantalón",
+        "en": "Trousers"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 386,
+      "names": {
+        "es": "Falda",
+        "en": "Skirt"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 387,
+      "names": {
+        "es": "Zapatos",
+        "en": "Shoes"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 388,
+      "names": {
+        "es": "Calcetines",
+        "en": "Socks"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 389,
+      "names": {
+        "es": "Chaqueta",
+        "en": "Jacket"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 390,
+      "names": {
+        "es": "Guantes",
+        "en": "Gloves"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 391,
+      "names": {
+        "es": "Bufanda",
+        "en": "Scarf"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 392,
+      "names": {
+        "es": "Abrigo",
+        "en": "Coat"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 393,
+      "names": {
+        "es": "Vestido",
+        "en": "Dress"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 394,
+      "names": {
+        "es": "Cinturón",
+        "en": "Belt"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 395,
+      "names": {
+        "es": "Botas",
+        "en": "Boots"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 396,
+      "names": {
+        "es": "Corbata",
+        "en": "Tie"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 397,
+      "names": {
+        "es": "Pijama",
+        "en": "Pyjamas"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 398,
+      "names": {
+        "es": "Bata",
+        "en": "Robe"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 399,
+      "names": {
+        "es": "Zapatillas",
+        "en": "Slippers"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 400,
+      "names": {
+        "es": "Chaleco",
+        "en": "Waistcoat"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 401,
+      "names": {
+        "es": "Pañuelo",
+        "en": "Handkerchief"
+      },
+      "type": "sustantivo",
+      "categories": [
+        16
+      ]
+    },
+    {
+      "id": 402,
+      "names": {
+        "es": "Uno",
+        "en": "One"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 403,
+      "names": {
+        "es": "Dos",
+        "en": "Two"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 404,
+      "names": {
+        "es": "Tres",
+        "en": "Three"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 405,
+      "names": {
+        "es": "Cuatro",
+        "en": "Four"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 406,
+      "names": {
+        "es": "Cinco",
+        "en": "Five"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 407,
+      "names": {
+        "es": "Seis",
+        "en": "Six"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 408,
+      "names": {
+        "es": "Siete",
+        "en": "Seven"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 409,
+      "names": {
+        "es": "Ocho",
+        "en": "Eight"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 410,
+      "names": {
+        "es": "Nueve",
+        "en": "Nine"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 411,
+      "names": {
+        "es": "Diez",
+        "en": "Ten"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 412,
+      "names": {
+        "es": "Once",
+        "en": "Eleven"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 413,
+      "names": {
+        "es": "Doce",
+        "en": "Twelve"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 414,
+      "names": {
+        "es": "Trece",
+        "en": "Thirteen"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 415,
+      "names": {
+        "es": "Catorce",
+        "en": "Fourteen"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 416,
+      "names": {
+        "es": "Quince",
+        "en": "Fifteen"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 417,
+      "names": {
+        "es": "Veinte",
+        "en": "Twenty"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 418,
+      "names": {
+        "es": "Treinta",
+        "en": "Thirty"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 419,
+      "names": {
+        "es": "Cuarenta",
+        "en": "Forty"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 420,
+      "names": {
+        "es": "Cincuenta",
+        "en": "Fifty"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 421,
+      "names": {
+        "es": "Cien",
+        "en": "One hundred"
+      },
+      "type": "sustantivo",
+      "categories": [
+        17
+      ]
+    },
+    {
+      "id": 422,
+      "names": {
+        "es": "Autobús",
+        "en": "Bus"
+      },
+      "type": "sustantivo",
+      "categories": [
+        18
+      ]
+    },
+    {
+      "id": 423,
+      "names": {
+        "es": "Barco",
+        "en": "Boat"
+      },
+      "type": "sustantivo",
+      "categories": [
+        18
+      ]
+    },
+    {
+      "id": 424,
+      "names": {
+        "es": "Moto",
+        "en": "Motorbike"
+      },
+      "type": "sustantivo",
+      "categories": [
+        18
+      ]
+    },
+    {
+      "id": 425,
+      "names": {
+        "es": "Taxi",
+        "en": "Taxi"
+      },
+      "type": "sustantivo",
+      "categories": [
+        18
+      ]
+    },
+    {
+      "id": 426,
+      "names": {
+        "es": "Metro",
+        "en": "Underground"
+      },
+      "type": "sustantivo",
+      "categories": [
+        18
+      ]
+    },
+    {
+      "id": 427,
+      "names": {
+        "es": "Furgoneta",
+        "en": "Van"
+      },
+      "type": "sustantivo",
+      "categories": [
+        18
+      ]
+    },
+    {
+      "id": 428,
+      "names": {
+        "es": "Tractor",
+        "en": "Tractor"
+      },
+      "type": "sustantivo",
+      "categories": [
+        18
+      ]
+    },
+    {
+      "id": 429,
+      "names": {
+        "es": "Monopatín",
+        "en": "Skateboard"
+      },
+      "type": "sustantivo",
+      "categories": [
+        18
+      ]
+    },
+    {
+      "id": 430,
+      "names": {
+        "es": "Tranvía",
+        "en": "Tram"
+      },
+      "type": "sustantivo",
+      "categories": [
+        18
+      ]
+    },
+    {
+      "id": 431,
+      "names": {
+        "es": "Ferry",
+        "en": "Ferry"
+      },
+      "type": "sustantivo",
+      "categories": [
+        18
+      ]
+    },
+    {
+      "id": 432,
+      "names": {
+        "es": "Wifi",
+        "en": "Wi-Fi"
+      },
+      "type": "sustantivo",
+      "categories": [
+        19
+      ]
+    },
+    {
+      "id": 433,
+      "names": {
+        "es": "Dron",
+        "en": "Drone"
+      },
+      "type": "sustantivo",
+      "categories": [
+        19
+      ]
+    },
+    {
+      "id": 434,
+      "names": {
+        "es": "Consola",
+        "en": "Games console"
+      },
+      "type": "sustantivo",
+      "categories": [
+        19
+      ]
+    },
+    {
+      "id": 435,
+      "names": {
+        "es": "Micrófono",
+        "en": "Microphone"
+      },
+      "type": "sustantivo",
+      "categories": [
+        19
+      ]
+    },
+    {
+      "id": 436,
+      "names": {
+        "es": "Usb",
+        "en": "USB drive"
+      },
+      "type": "sustantivo",
+      "categories": [
+        19
+      ]
+    },
+    {
+      "id": 437,
+      "names": {
+        "es": "Disco",
+        "en": "Disk"
+      },
+      "type": "sustantivo",
+      "categories": [
+        19
+      ]
+    },
+    {
+      "id": 438,
+      "names": {
+        "es": "Móvil",
+        "en": "Mobile phone"
+      },
+      "type": "sustantivo",
+      "categories": [
+        19
+      ]
+    },
+    {
+      "id": 439,
+      "names": {
+        "es": "Tableta",
+        "en": "Tablet"
+      },
+      "type": "sustantivo",
+      "categories": [
+        19
+      ]
+    },
+    {
+      "id": 440,
+      "names": {
+        "es": "Impresora",
+        "en": "Printer"
+      },
+      "type": "sustantivo",
+      "categories": [
+        19
+      ]
+    },
+    {
+      "id": 441,
+      "names": {
+        "es": "Altavoz",
+        "en": "Speaker"
+      },
+      "type": "sustantivo",
+      "categories": [
+        19
+      ]
+    },
+    {
+      "id": 442,
+      "names": {
+        "es": "Auriculares",
+        "en": "Headphones"
+      },
+      "type": "sustantivo",
+      "categories": [
+        19
+      ]
+    },
+    {
+      "id": 443,
+      "names": {
+        "es": "Televisor",
+        "en": "Television"
+      },
+      "type": "sustantivo",
+      "categories": [
+        19
+      ]
+    },
+    {
+      "id": 444,
+      "names": {
+        "es": "Sol",
+        "en": "Sun"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 445,
+      "names": {
+        "es": "Lluvia",
+        "en": "Rain"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 446,
+      "names": {
+        "es": "Nieve",
+        "en": "Snow"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 447,
+      "names": {
+        "es": "Viento",
+        "en": "Wind"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 448,
+      "names": {
+        "es": "Nube",
+        "en": "Cloud"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 449,
+      "names": {
+        "es": "Tormenta",
+        "en": "Storm"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 450,
+      "names": {
+        "es": "Granizo",
+        "en": "Hail"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 451,
+      "names": {
+        "es": "Niebla",
+        "en": "Fog"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 452,
+      "names": {
+        "es": "Trueno",
+        "en": "Thunder"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 453,
+      "names": {
+        "es": "Relámpago",
+        "en": "Lightning"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 454,
+      "names": {
+        "es": "Frío",
+        "en": "Cold"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 455,
+      "names": {
+        "es": "Calor",
+        "en": "Heat"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 456,
+      "names": {
+        "es": "Huracán",
+        "en": "Hurricane"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 457,
+      "names": {
+        "es": "Tornado",
+        "en": "Tornado"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 458,
+      "names": {
+        "es": "Helada",
+        "en": "Frost"
+      },
+      "type": "sustantivo",
+      "categories": [
+        20
+      ]
+    },
+    {
+      "id": 459,
+      "names": {
+        "es": "Árbol",
+        "en": "Tree"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 460,
+      "names": {
+        "es": "Flor",
+        "en": "Flower"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 461,
+      "names": {
+        "es": "Hoja",
+        "en": "Leaf"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 462,
+      "names": {
+        "es": "Hierba",
+        "en": "Grass"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 463,
+      "names": {
+        "es": "Río",
+        "en": "River"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 464,
+      "names": {
+        "es": "Mar",
+        "en": "Sea"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 465,
+      "names": {
+        "es": "Lago",
+        "en": "Lake"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 466,
+      "names": {
+        "es": "Desierto",
+        "en": "Desert"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 467,
+      "names": {
+        "es": "Cielo",
+        "en": "Sky"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 468,
+      "names": {
+        "es": "Tierra",
+        "en": "Earth"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 469,
+      "names": {
+        "es": "Arena",
+        "en": "Sand"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 470,
+      "names": {
+        "es": "Roca",
+        "en": "Rock"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 471,
+      "names": {
+        "es": "Lava",
+        "en": "Lava"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 472,
+      "names": {
+        "es": "Volcán",
+        "en": "Volcano"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 473,
+      "names": {
+        "es": "Valle",
+        "en": "Valley"
+      },
+      "type": "sustantivo",
+      "categories": [
+        21
+      ]
+    },
+    {
+      "id": 474,
+      "names": {
+        "es": "Doctor",
+        "en": "Doctor"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 475,
+      "names": {
+        "es": "Enfermero",
+        "en": "Nurse"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 476,
+      "names": {
+        "es": "Bombero",
+        "en": "Firefighter"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 477,
+      "names": {
+        "es": "Policía",
+        "en": "Police officer"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 478,
+      "names": {
+        "es": "Abogado",
+        "en": "Lawyer"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 479,
+      "names": {
+        "es": "Cocinero",
+        "en": "Cook"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 480,
+      "names": {
+        "es": "Ingeniero",
+        "en": "Engineer"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 481,
+      "names": {
+        "es": "Mecánico",
+        "en": "Mechanic"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 482,
+      "names": {
+        "es": "Carpintero",
+        "en": "Carpenter"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 483,
+      "names": {
+        "es": "Electricista",
+        "en": "Electrician"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 484,
+      "names": {
+        "es": "Jardinero",
+        "en": "Gardener"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 485,
+      "names": {
+        "es": "Arquitecto",
+        "en": "Architect"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 486,
+      "names": {
+        "es": "Panadero",
+        "en": "Baker"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 487,
+      "names": {
+        "es": "Peluquero",
+        "en": "Hairdresser"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 488,
+      "names": {
+        "es": "Fotógrafo",
+        "en": "Photographer"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 489,
+      "names": {
+        "es": "Veterinario",
+        "en": "Vet"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 490,
+      "names": {
+        "es": "Taxista",
+        "en": "Taxi driver"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 491,
+      "names": {
+        "es": "Soldado",
+        "en": "Soldier"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 492,
+      "names": {
+        "es": "Piloto",
+        "en": "Pilot"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 493,
+      "names": {
+        "es": "Secretario",
+        "en": "Secretary"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 494,
+      "names": {
+        "es": "Maestro",
+        "en": "Teacher"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 495,
+      "names": {
+        "es": "Sastre",
+        "en": "Tailor"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 496,
+      "names": {
+        "es": "Bibliotecario",
+        "en": "Librarian"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 497,
+      "names": {
+        "es": "Juez",
+        "en": "Judge"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 498,
+      "names": {
+        "es": "Mesero",
+        "en": "Waiter"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 499,
+      "names": {
+        "es": "Guardia",
+        "en": "Guard"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 500,
+      "names": {
+        "es": "Repartidor",
+        "en": "Delivery driver"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 501,
+      "names": {
+        "es": "Pintor",
+        "en": "Painter"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 502,
+      "names": {
+        "es": "Médico",
+        "en": "Doctor"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 503,
+      "names": {
+        "es": "Dentista",
+        "en": "Dentist"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 504,
+      "names": {
+        "es": "Agente",
+        "en": "Agent"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 505,
+      "names": {
+        "es": "Bailarín",
+        "en": "Dancer"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 506,
+      "names": {
+        "es": "Cantante",
+        "en": "Singer"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 507,
+      "names": {
+        "es": "Actor",
+        "en": "Actor"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 508,
+      "names": {
+        "es": "Director",
+        "en": "Director"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 509,
+      "names": {
+        "es": "Guía",
+        "en": "Guide"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 510,
+      "names": {
+        "es": "Técnico",
+        "en": "Technician"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 511,
+      "names": {
+        "es": "Plomero",
+        "en": "Plumber"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 512,
+      "names": {
+        "es": "Camarero",
+        "en": "Waiter"
+      },
+      "type": "sustantivo",
+      "categories": [
+        22
+      ]
+    },
+    {
+      "id": 513,
+      "names": {
+        "es": "Lunes",
+        "en": "Monday"
+      },
+      "type": "sustantivo",
+      "categories": [
+        23
+      ]
+    },
+    {
+      "id": 514,
+      "names": {
+        "es": "Martes",
+        "en": "Tuesday"
+      },
+      "type": "sustantivo",
+      "categories": [
+        23
+      ]
+    },
+    {
+      "id": 515,
+      "names": {
+        "es": "Miércoles",
+        "en": "Wednesday"
+      },
+      "type": "sustantivo",
+      "categories": [
+        23
+      ]
+    },
+    {
+      "id": 516,
+      "names": {
+        "es": "Jueves",
+        "en": "Thursday"
+      },
+      "type": "sustantivo",
+      "categories": [
+        23
+      ]
+    },
+    {
+      "id": 517,
+      "names": {
+        "es": "Viernes",
+        "en": "Friday"
+      },
+      "type": "sustantivo",
+      "categories": [
+        23
+      ]
+    },
+    {
+      "id": 518,
+      "names": {
+        "es": "Sábado",
+        "en": "Saturday"
+      },
+      "type": "sustantivo",
+      "categories": [
+        23
+      ]
+    },
+    {
+      "id": 519,
+      "names": {
+        "es": "Domingo",
+        "en": "Sunday"
+      },
+      "type": "sustantivo",
+      "categories": [
+        23
+      ]
+    },
+    {
+      "id": 520,
+      "names": {
+        "es": "Enero",
+        "en": "January"
+      },
+      "type": "sustantivo",
+      "categories": [
+        24
+      ]
+    },
+    {
+      "id": 521,
+      "names": {
+        "es": "Febrero",
+        "en": "February"
+      },
+      "type": "sustantivo",
+      "categories": [
+        24
+      ]
+    },
+    {
+      "id": 522,
+      "names": {
+        "es": "Marzo",
+        "en": "March"
+      },
+      "type": "sustantivo",
+      "categories": [
+        24
+      ]
+    },
+    {
+      "id": 523,
+      "names": {
+        "es": "Abril",
+        "en": "April"
+      },
+      "type": "sustantivo",
+      "categories": [
+        24
+      ]
+    },
+    {
+      "id": 524,
+      "names": {
+        "es": "Mayo",
+        "en": "May"
+      },
+      "type": "sustantivo",
+      "categories": [
+        24
+      ]
+    },
+    {
+      "id": 525,
+      "names": {
+        "es": "Junio",
+        "en": "June"
+      },
+      "type": "sustantivo",
+      "categories": [
+        24
+      ]
+    },
+    {
+      "id": 526,
+      "names": {
+        "es": "Julio",
+        "en": "July"
+      },
+      "type": "sustantivo",
+      "categories": [
+        24
+      ]
+    },
+    {
+      "id": 527,
+      "names": {
+        "es": "Agosto",
+        "en": "August"
+      },
+      "type": "sustantivo",
+      "categories": [
+        24
+      ]
+    },
+    {
+      "id": 528,
+      "names": {
+        "es": "Septiembre",
+        "en": "September"
+      },
+      "type": "sustantivo",
+      "categories": [
+        24
+      ]
+    },
+    {
+      "id": 529,
+      "names": {
+        "es": "Octubre",
+        "en": "October"
+      },
+      "type": "sustantivo",
+      "categories": [
+        24
+      ]
+    },
+    {
+      "id": 530,
+      "names": {
+        "es": "Noviembre",
+        "en": "November"
+      },
+      "type": "sustantivo",
+      "categories": [
+        24
+      ]
+    },
+    {
+      "id": 531,
+      "names": {
+        "es": "Diciembre",
+        "en": "December"
+      },
+      "type": "sustantivo",
+      "categories": [
+        24
+      ]
+    },
+    {
+      "id": 532,
+      "names": {
+        "es": "Cocina",
+        "en": "Kitchen"
+      },
+      "type": "sustantivo",
+      "categories": [
+        25
+      ]
+    },
+    {
+      "id": 533,
+      "names": {
+        "es": "Salón",
+        "en": "Living room"
+      },
+      "type": "sustantivo",
+      "categories": [
+        25
+      ]
+    },
+    {
+      "id": 534,
+      "names": {
+        "es": "Baño",
+        "en": "Bathroom"
+      },
+      "type": "sustantivo",
+      "categories": [
+        25
+      ]
+    },
+    {
+      "id": 535,
+      "names": {
+        "es": "Dormitorio",
+        "en": "Bedroom"
+      },
+      "type": "sustantivo",
+      "categories": [
+        25
+      ]
+    },
+    {
+      "id": 536,
+      "names": {
+        "es": "Sofá",
+        "en": "Sofa"
+      },
+      "type": "sustantivo",
+      "categories": [
+        25
+      ]
+    },
+    {
+      "id": 537,
+      "names": {
+        "es": "Microondas",
+        "en": "Microwave"
+      },
+      "type": "sustantivo",
+      "categories": [
+        25
+      ]
+    },
+    {
+      "id": 538,
+      "names": {
+        "es": "Horno",
+        "en": "Oven"
+      },
+      "type": "sustantivo",
+      "categories": [
+        25
+      ]
+    },
+    {
+      "id": 539,
+      "names": {
+        "es": "Lavadora",
+        "en": "Washing machine"
+      },
+      "type": "sustantivo",
+      "categories": [
+        25
+      ]
+    },
+    {
+      "id": 540,
+      "names": {
+        "es": "Cuadro",
+        "en": "Picture"
+      },
+      "type": "sustantivo",
+      "categories": [
+        25
+      ]
+    },
+    {
+      "id": 541,
+      "names": {
+        "es": "Cortina",
+        "en": "Curtain"
+      },
+      "type": "sustantivo",
+      "categories": [
+        25
+      ]
+    },
+    {
+      "id": 542,
+      "names": {
+        "es": "Alfombra",
+        "en": "Rug"
+      },
+      "type": "sustantivo",
+      "categories": [
+        25
+      ]
+    },
+    {
+      "id": 543,
+      "names": {
+        "es": "Confeti",
+        "en": "Confetti"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 544,
+      "names": {
+        "es": "Disfraz",
+        "en": "Costume"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 545,
+      "names": {
+        "es": "Desfile",
+        "en": "Parade"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 546,
+      "names": {
+        "es": "Cohete",
+        "en": "Rocket"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 547,
+      "names": {
+        "es": "Luces",
+        "en": "Lights"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 548,
+      "names": {
+        "es": "Decoración",
+        "en": "Decoration"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 549,
+      "names": {
+        "es": "Navidad",
+        "en": "Christmas"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 550,
+      "names": {
+        "es": "Halloween",
+        "en": "Halloween"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 551,
+      "names": {
+        "es": "Año nuevo",
+        "en": "New Year"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 552,
+      "names": {
+        "es": "Boda",
+        "en": "Wedding"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 553,
+      "names": {
+        "es": "Aniversario",
+        "en": "Anniversary"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 554,
+      "names": {
+        "es": "Cumpleaños",
+        "en": "Birthday"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 555,
+      "names": {
+        "es": "Regalo",
+        "en": "Gift"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 556,
+      "names": {
+        "es": "Fiesta",
+        "en": "Party"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 557,
+      "names": {
+        "es": "Pastel",
+        "en": "Cake"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 558,
+      "names": {
+        "es": "Vela",
+        "en": "Candle"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 559,
+      "names": {
+        "es": "Carnaval",
+        "en": "Carnival"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 560,
+      "names": {
+        "es": "Celebración",
+        "en": "Celebration"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 561,
+      "names": {
+        "es": "Música",
+        "en": "Music"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 562,
+      "names": {
+        "es": "Graduación",
+        "en": "Graduation"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 563,
+      "names": {
+        "es": "Concierto",
+        "en": "Concert"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 564,
+      "names": {
+        "es": "Feria",
+        "en": "Fair"
+      },
+      "type": "sustantivo",
+      "categories": [
+        26
+      ]
+    },
+    {
+      "id": 565,
+      "names": {
+        "es": "Martillo",
+        "en": "Hammer"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 566,
+      "names": {
+        "es": "Destornillador",
+        "en": "Screwdriver"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 567,
+      "names": {
+        "es": "Taladro",
+        "en": "Drill"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 568,
+      "names": {
+        "es": "Sierra",
+        "en": "Saw"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 569,
+      "names": {
+        "es": "Alicates",
+        "en": "Pliers"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 570,
+      "names": {
+        "es": "Cinta métrica",
+        "en": "Tape measure"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 571,
+      "names": {
+        "es": "Nivel",
+        "en": "Level"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 572,
+      "names": {
+        "es": "Tornillo",
+        "en": "Screw"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 573,
+      "names": {
+        "es": "Clavo",
+        "en": "Nail"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 574,
+      "names": {
+        "es": "Llave inglesa",
+        "en": "Spanner"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 575,
+      "names": {
+        "es": "Soldador",
+        "en": "Welder"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 576,
+      "names": {
+        "es": "Lijadora",
+        "en": "Sander"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 577,
+      "names": {
+        "es": "Serrucho",
+        "en": "Handsaw"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 578,
+      "names": {
+        "es": "Brocha",
+        "en": "Paintbrush"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 579,
+      "names": {
+        "es": "Pala",
+        "en": "Shovel"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 580,
+      "names": {
+        "es": "Mazo",
+        "en": "Mallet"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 581,
+      "names": {
+        "es": "Escalera",
+        "en": "Ladder"
+      },
+      "type": "sustantivo",
+      "categories": [
+        27
+      ]
+    },
+    {
+      "id": 582,
+      "names": {
+        "es": "Enfermera",
+        "en": "Nurse"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 583,
+      "names": {
+        "es": "Medicina",
+        "en": "Medicine"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 584,
+      "names": {
+        "es": "Pastilla",
+        "en": "Pill"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 585,
+      "names": {
+        "es": "Jeringuilla",
+        "en": "Syringe"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 586,
+      "names": {
+        "es": "Termómetro",
+        "en": "Thermometer"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 587,
+      "names": {
+        "es": "Consulta",
+        "en": "Appointment"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 588,
+      "names": {
+        "es": "Ambulancia",
+        "en": "Ambulance"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 589,
+      "names": {
+        "es": "Vacuna",
+        "en": "Vaccine"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 590,
+      "names": {
+        "es": "Dolor",
+        "en": "Pain"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 591,
+      "names": {
+        "es": "Tos",
+        "en": "Cough"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 592,
+      "names": {
+        "es": "Fiebre",
+        "en": "Fever"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 593,
+      "names": {
+        "es": "Operación",
+        "en": "Operation"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 594,
+      "names": {
+        "es": "Recuperación",
+        "en": "Recovery"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 595,
+      "names": {
+        "es": "Salud",
+        "en": "Health"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 596,
+      "names": {
+        "es": "Accidente",
+        "en": "Accident"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 597,
+      "names": {
+        "es": "Cuidado",
+        "en": "Care"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 598,
+      "names": {
+        "es": "Dieta",
+        "en": "Diet"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 599,
+      "names": {
+        "es": "Descanso",
+        "en": "Rest"
+      },
+      "type": "sustantivo",
+      "categories": [
+        28
+      ]
+    },
+    {
+      "id": 600,
+      "names": {
+        "es": "Guitarra",
+        "en": "Guitar"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 601,
+      "names": {
+        "es": "Piano",
+        "en": "Piano"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 602,
+      "names": {
+        "es": "Violín",
+        "en": "Violin"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 603,
+      "names": {
+        "es": "Flauta",
+        "en": "Flute"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 604,
+      "names": {
+        "es": "Trompeta",
+        "en": "Trumpet"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 605,
+      "names": {
+        "es": "Saxofón",
+        "en": "Saxophone"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 606,
+      "names": {
+        "es": "Clarinete",
+        "en": "Clarinet"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 607,
+      "names": {
+        "es": "Acordeón",
+        "en": "Accordion"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 608,
+      "names": {
+        "es": "Trombón",
+        "en": "Trombone"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 609,
+      "names": {
+        "es": "Arpa",
+        "en": "Harp"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 610,
+      "names": {
+        "es": "Xilófono",
+        "en": "Xylophone"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 611,
+      "names": {
+        "es": "Oboe",
+        "en": "Oboe"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 612,
+      "names": {
+        "es": "Violonchelo",
+        "en": "Cello"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 613,
+      "names": {
+        "es": "Contrabajo",
+        "en": "Double bass"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 614,
+      "names": {
+        "es": "Ukelele",
+        "en": "Ukulele"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 615,
+      "names": {
+        "es": "Banjo",
+        "en": "Banjo"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 616,
+      "names": {
+        "es": "Maracas",
+        "en": "Maracas"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 617,
+      "names": {
+        "es": "Tambor",
+        "en": "Drum"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 618,
+      "names": {
+        "es": "Triángulo",
+        "en": "Triangle"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 619,
+      "names": {
+        "es": "Castañuelas",
+        "en": "Castanets"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 620,
+      "names": {
+        "es": "Cajón flamenco",
+        "en": "Cajón"
+      },
+      "type": "sustantivo",
+      "categories": [
+        29
+      ]
+    },
+    {
+      "id": 621,
+      "names": {
+        "es": "Fútbol",
+        "en": "Football"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 622,
+      "names": {
+        "es": "Baloncesto",
+        "en": "Basketball"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 623,
+      "names": {
+        "es": "Tenis",
+        "en": "Tennis"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 624,
+      "names": {
+        "es": "Natación",
+        "en": "Swimming"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 625,
+      "names": {
+        "es": "Atletismo",
+        "en": "Athletics"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 626,
+      "names": {
+        "es": "Ciclismo",
+        "en": "Cycling"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 627,
+      "names": {
+        "es": "Gimnasia",
+        "en": "Gymnastics"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 628,
+      "names": {
+        "es": "Voleibol",
+        "en": "Volleyball"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 629,
+      "names": {
+        "es": "Béisbol",
+        "en": "Baseball"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 630,
+      "names": {
+        "es": "Hockey",
+        "en": "Hockey"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 631,
+      "names": {
+        "es": "Rugby",
+        "en": "Rugby"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 632,
+      "names": {
+        "es": "Boxeo",
+        "en": "Boxing"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 633,
+      "names": {
+        "es": "Judo",
+        "en": "Judo"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 634,
+      "names": {
+        "es": "Karate",
+        "en": "Karate"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 635,
+      "names": {
+        "es": "Esgrima",
+        "en": "Fencing"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 636,
+      "names": {
+        "es": "Equitación",
+        "en": "Horse riding"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 637,
+      "names": {
+        "es": "Escalada",
+        "en": "Climbing"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 638,
+      "names": {
+        "es": "Golf",
+        "en": "Golf"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 639,
+      "names": {
+        "es": "Ping pong",
+        "en": "Table tennis"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 640,
+      "names": {
+        "es": "Esquí",
+        "en": "Skiing"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 641,
+      "names": {
+        "es": "Snowboard",
+        "en": "Snowboarding"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 642,
+      "names": {
+        "es": "Surf",
+        "en": "Surfing"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 643,
+      "names": {
+        "es": "Patinaje",
+        "en": "Skating"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 644,
+      "names": {
+        "es": "Remo",
+        "en": "Rowing"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 645,
+      "names": {
+        "es": "Tiro con arco",
+        "en": "Archery"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 646,
+      "names": {
+        "es": "Bádminton",
+        "en": "Badminton"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 647,
+      "names": {
+        "es": "Senderismo",
+        "en": "Hiking"
+      },
+      "type": "sustantivo",
+      "categories": [
+        30
+      ]
+    },
+    {
+      "id": 648,
+      "names": {
+        "es": "Hola",
+        "en": "Hello"
+      },
+      "type": "sustantivo",
+      "categories": [
+        4
+      ]
+    },
+    {
+      "id": 649,
+      "names": {
+        "es": "Ser",
+        "en": "Be"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 650,
+      "names": {
+        "es": "Estar",
+        "en": "Be"
+      },
+      "type": "verbo",
+      "categories": [
+        1
+      ]
+    },
+    {
+      "id": 651,
+      "names": {
+        "es": "te",
+        "en": "You"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 652,
+      "names": {
+        "es": "se",
+        "en": "Oneself"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 653,
+      "names": {
+        "es": "nos",
+        "en": "Us"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    },
+    {
+      "id": 654,
+      "names": {
+        "es": "os",
+        "en": "You"
+      },
+      "type": "sustantivo",
+      "categories": [
+        8
+      ]
+    }
+  ]
+}

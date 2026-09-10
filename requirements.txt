@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-tensorflow
-numpy
-scikit-learn
+torch==2.5.1
+transformers==4.46.3

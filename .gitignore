@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# El Transformer actual supera el límite de archivos de GitHub y será
+# reemplazado por el modelo GRU compacto.
+transformer_model/
